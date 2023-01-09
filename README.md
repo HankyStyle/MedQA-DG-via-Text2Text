@@ -18,7 +18,7 @@
     ├── bart-base
     └── biobart-base
         ├── train // Model Train Script
-        ├── eval  // Model Evaluation Script
-        └── model // Save Model in this Folder
+        |   └── model // Save Model in this Folder
+        └── eval  // Model Evaluation Script
 
 ```
